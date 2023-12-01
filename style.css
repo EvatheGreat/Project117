@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(176, 139, 214);
+}
+#time{
+    font-size:30px ;
+    margin-right: 1500px;
+    float: right;
+}
+#score{
+    font-size:30px ;
+    margin-left: 1500px;
+}
